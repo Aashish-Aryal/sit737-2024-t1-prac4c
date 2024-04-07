@@ -1,0 +1,9 @@
+{"level":"info","message":"Parameters 2 and 3 received for exponential operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 2 and 4 received for exponential operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 10 and 5 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 10 and 5 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 10 and 5 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 10 and 3 received for modulo operation","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 100 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 64 received for square root","service":"calculate-microservice"}
+{"level":"info","message":"Parameters 64 received for square root","service":"calculate-microservice"}
